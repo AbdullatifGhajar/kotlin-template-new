@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/AbdullatifGhajar/kotlin-template-new/compare/v1.1.0...v1.2.0) (2025-11-28)
+
+
+### Features
+
+* 2 ([15a3f26](https://github.com/AbdullatifGhajar/kotlin-template-new/commit/15a3f261a383f0ac04cace33136ab98cdb677dc1))
+
 ## [1.1.0](https://github.com/AbdullatifGhajar/kotlin-template-new/compare/v1.0.0...v1.1.0) (2025-11-28)
 
 
